@@ -803,40 +803,6 @@
     margin-top: 8px;
 }
 
-/* The searchbar */
-.searchBar-3TnChZ {
-    position: fixed;
-    top: 8px;
-    left: calc(50% - 280px);
-    width: 558px;
-    height: 30px;
-    border-radius: 5px;
-    border: 1px solid var(--background-accent);
-}
-.searchBar-3TnChZ .searchBarComponent-3N7dCG {
-    -webkit-app-region: no-drag;
-}
-
-.search-39IXmY {
-    position: fixed;
-    top: 8px;
-    left: calc(50% - 288px);
-}
-.searchBar-jGtisZ {
-    height: 32px;
-    width: 580px;
-    border-radius: 5px;
-    border: 1px solid var(--background-accent);
-}
-#app-mount .focused-1xh-wG .searchBar-jGtisZ, #app-mount .open-1F8u2c .searchBar-jGtisZ {
-    width: 580px;
-}
-
-.icon-tZMHgY.iconLayout-SqV3nb.small-1hw8IT {
-    position: relative;
-    left: -4px;
-    top: 3px;
-}
 /* That search options */
 #app-mount .container-2McqkF {
     width: 580px !important;
